@@ -1,0 +1,52 @@
+Id2,Geography,Percent_below_poverty_level,Percentage_with_health_coverage,Percent_without_health_coverage,Locationabbr
+1,Alabama,19.3,86.1,13.9,AL
+2,Alaska,11.2,85,15,AK
+4,Arizona,18.2,85.6,14.4,AZ
+5,Arkansas,18.9,83.7,16.3,AR
+6,California,16.4,85.2,14.8,CA
+8,Colorado,12,87.2,12.8,CO
+9,Connecticut,10.8,91.3,8.7,CT
+10,Delaware,12.5,91.4,8.6,DE
+11,District of Columbia,17.7,91.7,8.3,DC
+12,Florida,16.5,82.4,17.6,FL
+13,Georgia,18.3,79.1,20.9,GA
+15,Hawaii,11.4,91.9,8.1,HI
+16,Idaho,14.8,83.5,16.5,ID
+17,Illinois,14.4,88.1,11.9,IL
+18,Indiana,15.2,85.3,14.7,IN
+19,Iowa,12.2,92.3,7.7,IA
+20,Kansas,13.6,85.5,14.5,KS
+21,Kentucky,19.1,90,10,KY
+22,Louisiana,19.8,81.3,18.7,LA
+23,Maine,14.1,89,11,ME
+24,Maryland,10.1,90.8,9.2,MD
+25,Massachusetts,11.6,95.4,4.6,MA
+26,Michigan,16.2,89.7,10.3,MI
+27,Minnesota,11.5,92.7,7.3,MN
+28,Mississippi,21.5,81.2,18.8,MS
+29,Missouri,15.5,87.1,12.9,MO
+30,Montana,15.4,87.1,12.9,MT
+31,Nebraska,12.4,87.7,12.3,NE
+32,Nevada,15.2,82.9,17.1,NV
+33,New Hampshire,9.2,88.6,11.4,NH
+34,New Jersey,11.1,87.6,12.4,NJ
+35,New Mexico,21.3,84.6,15.4,NM
+36,New York,15.9,87.7,12.3,NY
+37,North Carolina,17.2,83.9,16.1,NC
+38,North Dakota,11.5,91.2,8.8,ND
+39,Ohio,15.8,89.8,10.2,OH
+40,Oklahoma,16.6,86.1,13.9,OK
+41,Oregon,16.6,89,11,OR
+42,Pennsylvania,13.6,89.9,10.1,PA
+44,Rhode Island,14.3,92,8,RI
+45,South Carolina,18,82.9,17.1,SC
+46,South Dakota,14.2,90.1,9.9,SD
+47,Tennessee,18.3,85.8,14.2,TN
+48,Texas,17.2,75.1,24.9,TX
+49,Utah,11.7,86.1,13.9,UT
+50,Vermont,12.2,93.3,6.7,VT
+51,Virginia,11.8,87,13,VA
+53,Washington,13.2,89.3,10.7,WA
+54,West Virginia,18.3,89.9,10.1,WV
+55,Wisconsin,13.2,91.5,8.5,WI
+56,Wyoming,11.2,84.9,15.1,WY
